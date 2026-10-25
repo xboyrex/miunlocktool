@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050608"/>
+      <stop offset="50%" stop-color="#0E1118"/>
+      <stop offset="100%" stop-color="#06070A"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E50914"/>
+      <stop offset="100%" stop-color="#FF333D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="18" fill="url(#bg)" stroke="#E50914" stroke-width="3.5"/>
+  <rect x="14" y="14" width="1252" height="392" rx="12" fill="none" stroke="#262C3A" stroke-width="1.5"/>
+
+  <rect x="450" y="2" width="380" height="28" rx="6" fill="#050608"/>
+  <text x="640" y="21" font-family="monospace" font-size="16" font-weight="800" fill="#F8FAFC" text-anchor="middle" letter-spacing="3">[ XBOYREX OFFICIAL EDITION • v8.1 ]</text>
+
+  <text x="640" y="142" font-family="'Arial Black', 'Impact', sans-serif" font-size="110" font-weight="900" fill="url(#redGrad)" text-anchor="middle" letter-spacing="10">XBOYREX</text>
+
+  <text x="640" y="192" font-family="monospace" font-size="25" font-weight="800" fill="#F8FAFC" text-anchor="middle" letter-spacing="2">XIAOMI UNLOCK STUDIO BY XBOYREX <tspan fill="#E50914">v8.1</tspan></text>
+  <text x="640" y="224" font-family="monospace" font-size="16" fill="#94A3B8" text-anchor="middle" letter-spacing="1.5">SUB-MILLISECOND STRATUM-1 NTP ENGINE • HYPEROS 1/2/3 &amp; MIUI 14 QUOTA UNLOCKER</text>
+  <text x="640" y="250" font-family="monospace" font-size="14" fill="#64748B" text-anchor="middle">Developed by xboyrex (Mayank Droid)  •  Desktop GUI  •  Termux/Linux CLI  •  Native Android App</text>
+
+  <g transform="translate(80, 278)">
+    <rect x="0" y="0" width="1120" height="94" rx="10" fill="#0A0D13" stroke="#2D3548" stroke-width="1.5"/>
+    <text x="35" y="34" font-family="monospace" font-size="15" font-weight="700" fill="#E50914">[01] <tspan fill="#F8FAFC">Stratum-1 NTP Sync (00:00:00 UTC+8)</tspan></text>
+    <text x="430" y="34" font-family="monospace" font-size="15" font-weight="700" fill="#E50914">[02] <tspan fill="#F8FAFC">1-Click QR &amp; Session Token Auth</tspan></text>
+    <text x="805" y="34" font-family="monospace" font-size="15" font-weight="700" fill="#E50914">[03] <tspan fill="#F8FAFC">Dynamic RTT Ping Calibration</tspan></text>
+
+    <text x="35" y="68" font-family="monospace" font-size="14" fill="#10B981">✔ Smart DoH DNS (1.1.1.1 / 8.8.8.8)</text>
+    <text x="365" y="68" font-family="monospace" font-size="14" fill="#10B981">✔ Auto Mode #2 Sub-ms Triggers</text>
+    <text x="675" y="68" font-family="monospace" font-size="14" fill="#10B981">✔ Integrated MiUnlock Runner</text>
+    <text x="935" y="68" font-family="monospace" font-size="14" fill="#E50914">github.com/xboyrex</text>
+  </g>
+</svg>

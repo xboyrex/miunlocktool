@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand: XBOYREX Crimson Red & Obsidian Material 3 -->
+    <color name="md_theme_light_primary">#E50914</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#FFDAD6</color>
+    <color name="md_theme_light_onPrimaryContainer">#410002</color>
+    <color name="md_theme_light_secondary">#775652</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#FFDAD6</color>
+    <color name="md_theme_light_onSecondaryContainer">#2C1512</color>
+    <color name="md_theme_light_tertiary">#715B2E</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FDDFA6</color>
+    <color name="md_theme_light_onTertiaryContainer">#261900</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FFF8F7</color>
+    <color name="md_theme_light_onBackground">#231918</color>
+    <color name="md_theme_light_surface">#FFF8F7</color>
+    <color name="md_theme_light_onSurface">#231918</color>
+    <color name="md_theme_light_surfaceVariant">#F5DDDA</color>
+    <color name="md_theme_light_onSurfaceVariant">#534341</color>
+    <color name="md_theme_light_outline">#857371</color>
+    <color name="md_theme_light_outlineVariant">#D8C2BF</color>
+    <color name="md_theme_light_surfaceContainerLowest">#FFFFFF</color>
+    <color name="md_theme_light_surfaceContainerLow">#FFF0EE</color>
+    <color name="md_theme_light_surfaceContainer">#FCEAE7</color>
+    <color name="md_theme_light_surfaceContainerHigh">#F6E4E2</color>
+    <color name="md_theme_light_surfaceContainerHighest">#F1DEDD</color>
+
+    <!-- XBOYREX Obsidian & Crimson Dark Theme Palette -->
+    <color name="md_theme_dark_primary">#E50914</color>
+    <color name="md_theme_dark_onPrimary">#FFFFFF</color>
+    <color name="md_theme_dark_primaryContainer">#93000A</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFDAD6</color>
+    <color name="md_theme_dark_secondary">#E7BDB8</color>
+    <color name="md_theme_dark_onSecondary">#442926</color>
+    <color name="md_theme_dark_secondaryContainer">#5D3F3C</color>
+    <color name="md_theme_dark_onSecondaryContainer">#FFDAD6</color>
+    <color name="md_theme_dark_tertiary">#E0C38C</color>
+    <color name="md_theme_dark_onTertiary">#3F2E04</color>
+    <color name="md_theme_dark_tertiaryContainer">#574419</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FDDFA6</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#090B10</color>
+    <color name="md_theme_dark_onBackground">#F8FAFC</color>
+    <color name="md_theme_dark_surface">#090B10</color>
+    <color name="md_theme_dark_onSurface">#F8FAFC</color>
+    <color name="md_theme_dark_surfaceVariant">#1E2433</color>
+    <color name="md_theme_dark_onSurfaceVariant">#CBD5E1</color>
+    <color name="md_theme_dark_outline">#64748B</color>
+    <color name="md_theme_dark_outlineVariant">#262C3A</color>
+    <color name="md_theme_dark_surfaceContainerLowest">#06070A</color>
+    <color name="md_theme_dark_surfaceContainerLow">#0E1118</color>
+    <color name="md_theme_dark_surfaceContainer">#131722</color>
+    <color name="md_theme_dark_surfaceContainerHigh">#191F2E</color>
+    <color name="md_theme_dark_surfaceContainerHighest">#22293B</color>
+
+    <!-- Semantic Status Colors -->
+    <color name="status_success">#10B981</color>
+    <color name="status_success_container">#064E3B</color>
+    <color name="status_on_success_container">#A7F3D0</color>
+
+    <color name="status_warning">#E50914</color>
+    <color name="status_warning_container">#450A0A</color>
+    <color name="status_on_warning_container">#FECACA</color>
+
+    <color name="status_info">#38BDF8</color>
+    <color name="status_info_container">#0C4A6E</color>
+    <color name="status_on_info_container">#BAE6FD</color>
+
+    <color name="log_console_bg">#07090D</color>
+    <color name="log_text_default">#F8FAFC</color>
+    <color name="log_text_green">#10B981</color>
+    <color name="log_text_cyan">#38BDF8</color>
+    <color name="log_text_yellow">#F59E0B</color>
+    <color name="log_text_red">#E50914</color>
+    <color name="log_text_purple">#F43F5E</color>
+</resources>

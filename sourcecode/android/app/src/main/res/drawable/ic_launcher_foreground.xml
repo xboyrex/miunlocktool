@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- XBOYREX Hex Shield + Crimson X Emblem -->
+    <path
+        android:fillColor="#161B28"
+        android:strokeColor="#E50914"
+        android:strokeWidth="3"
+        android:pathData="M54,18 L84,32 L84,62 C84,77 70,88 54,92 C38,88 24,77 24,62 L24,32 Z" />
+    <path
+        android:strokeColor="#F8FAFC"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,42 V34 C44,28 48,24 54,24 C59,24 63,27 64,32" />
+    <path
+        android:strokeColor="#E50914"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:pathData="M40,46 L68,74 M68,46 L40,74" />
+</vector>

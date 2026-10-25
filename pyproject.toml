@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "miunlocktool-xboyrex"
+version = "8.1.0"
+license = { text = "GPL-3.0-only" }
+description = "Xiaomi Unlock Tool v8.1 (XBOYREX Edition) — Sub-Millisecond Stratum-1 NTP Quota & Bootloader Unlocker"
+readme = "README.md"
+authors = [
+    { name = "xboyrex" },
+    { name = "Mayank Droid" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.31.0",
+    "rich>=13.0.0",
+    "miunlock>=1.7.3",
+]
+
+[project.urls]
+Homepage = "https://github.com/xboyrex/miunlocktool"
+Repository = "https://github.com/xboyrex/miunlocktool"
+
+[project.scripts]
+miunlocktool = "miunlock_cli:main"
+xboyrex-unlock = "miunlock_cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "sourcecode/cli"}
+py-modules = ["miunlock_cli"]
